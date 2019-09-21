@@ -4,7 +4,8 @@
 Alle grønne opgaver er lavet.
 Nogen orange og røde opgaver lavet. Der har desværre ikke været tid til at lave alle røde opgaver.
 
-Jeg har opdelt de forskellige opgaver efter de dage hvor opgaverne blev stillet.
+Jeg har opdelt de forskellige opgaver i netbeans projekter efter de dage hvor opgaverne blev stillet.
+(Flow 2 week 1..)
 
 ## Tirsdag:
 f2w1 
