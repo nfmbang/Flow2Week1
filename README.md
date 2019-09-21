@@ -4,12 +4,16 @@
 Alle grønne opgaver er lavet.
 Nogen orange og røde opgaver lavet. Der har desværre ikke været tid til at lave alle røde opgaver.
 
+Jeg har opdelt de forskellige opgaver efter de dage hvor opgaverne blev stillet.
+
 ## Tirsdag:
 f2w1 
+
 f2w1b
 
 ## Onsdag
 F2W1W
+
 F2W1W2
 
 ## Fredag
