@@ -4,15 +4,15 @@
 Alle grønne opgaver er lavet.
 Nogen orange og røde opgaver lavet. Der har desværre ikke været tid til at lave alle røde opgaver.
 
-##Tirsdag:
+## Tirsdag:
 f2w1 
 f2w1b
 
-##Onsdag
+## Onsdag
 F2W1W
 F2W1W2
 
-##Fredag
+## Fredag
 F2W1F
 
 Jeg har lavet generelle funktioner der kan returnere det som der er stillet i opgaverne.
